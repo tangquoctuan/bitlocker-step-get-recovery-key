@@ -9,3 +9,4 @@
 7. Create file `Hash.txt` store ` User Password with MAC verification (slower solution, no false positives)`
 8. Copy `Hash.txt` to HashCat program dir.
 9. In `Hashcat` root Type cmd on file explorer => `hashcat.exe -m 22100 Hash.txt example.dict`.
+Refer video https://www.youtube.com/watch?v=oMeqXlGbpdI || https://www.youtube.com/watch?v=J17613vXDFg
