@@ -1,4 +1,4 @@
-# bitlocker-step-recovery-key
+# bitlocker-step-get-recovery-key
 1. Download & install `win32diskimager` https://sourceforge.net/projects/win32diskimager/.
 2. Download `John the Ripper password cracker` https://www.openwall.com/john/ (1.9.0-jumbo-1 64-bit Windows binaries in).
 3. Download `HashCat` https://hashcat.net/beta/.
